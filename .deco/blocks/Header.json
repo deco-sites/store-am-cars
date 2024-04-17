@@ -1,0 +1,67 @@
+{
+    "__resolveType": "site/sections/Header/Header.tsx",
+    "searchbar": {
+        "placeholder": "Buscar inventario, marca, modelo...",
+        "loader": {
+            "__resolveType": "resolved",
+            "data": null
+        }
+    },
+    "alerts": [],
+    "logo": {
+        "src": "/image/am-autos-logo.png",
+        "alt": "A.M Autos",
+        "width": 220,
+        "height": 80
+    },
+    "navItems": [
+        {
+            "@type": "SiteNavigationElement",
+            "url": "/inventory",
+            "name": "Inventario",
+            "children": [],
+            "image": []
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "url": "/finance",
+            "name": "Financiaci\u00f3n",
+            "children": [],
+            "image": []
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "url": "/tasacion",
+            "name": "Tasaci\u00f3n",
+            "children": [],
+            "image": []
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "url": "/locations",
+            "name": "Ubicaciones",
+            "children": [],
+            "image": []
+        },
+        {
+            "@type": "SiteNavigationElement",
+            "url": "/contacto",
+            "name": "Contacto",
+            "children": [],
+            "image": []
+        }
+    ],
+    "primaryCta": {
+        "label": "Reservar prueba",
+        "href": "/test-drive"
+    },
+    "secondaryCta": {
+        "label": "Financiaci\u00f3n",
+        "href": "/finance"
+    },
+    "garage": {
+        "label": "Mi Garaje",
+        "href": "/garage"
+    },
+    "loading": "eager"
+}

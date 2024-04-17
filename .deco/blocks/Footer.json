@@ -1,0 +1,85 @@
+{
+    "__resolveType": "site/sections/Footer/Footer.tsx",
+    "links": [
+        {
+            "title": "A.M Autos",
+            "children": [
+                {
+                    "title": "Sobre nosotros",
+                    "href": "/sobre-nosotros"
+                },
+                {
+                    "title": "Ubicaciones",
+                    "href": "/locations"
+                },
+                {
+                    "title": "Contacto",
+                    "href": "/contacto"
+                },
+                {
+                    "title": "Mi Garaje",
+                    "href": "/garage"
+                }
+            ],
+            "href": "/"
+        },
+        {
+            "title": "Comprar",
+            "href": "/inventory",
+            "children": [
+                {
+                    "title": "Ver inventario",
+                    "href": "/inventory"
+                },
+                {
+                    "title": "Reservar prueba",
+                    "href": "/test-drive"
+                },
+                {
+                    "title": "Financiaci\u00f3n",
+                    "href": "/finance"
+                },
+                {
+                    "title": "Veh\u00edculos guardados",
+                    "href": "/garage"
+                }
+            ]
+        },
+        {
+            "title": "Vender / Tasaci\u00f3n",
+            "href": "/tasacion",
+            "children": [
+                {
+                    "title": "Solicitar tasaci\u00f3n",
+                    "href": "/tasacion"
+                },
+                {
+                    "title": "Proceso de compra",
+                    "href": "/faq"
+                },
+                {
+                    "title": "Documentaci\u00f3n",
+                    "href": "/faq"
+                }
+            ]
+        }
+    ],
+    "social": [],
+    "paymentMethods": [],
+    "policies": [
+        {
+            "title": "Pol\u00edtica de privacidad",
+            "href": "/privacidad"
+        },
+        {
+            "title": "T\u00e9rminos y condiciones",
+            "href": "/terminos"
+        },
+        {
+            "title": "Pol\u00edtica de cookies",
+            "href": "/cookies"
+        }
+    ],
+    "logo": "/image/am-autos-logo.png",
+    "trademark": "\u00a9 2026 A.M Autos. Todos los derechos reservados."
+}
